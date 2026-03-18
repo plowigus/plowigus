@@ -25,14 +25,6 @@ Frontend Developer with over 2 years of commercial experience, specializing in t
 
 ---
 
-## Selected Projects
-
-* **[Project Name 1]** — *[Link to Live / Repo]*
-  Developed a custom Headless CMS integrating Next.js, Supabase, and Tailwind CSS. Focused on seamless client hand-off and 100/100 performance scores.
-* **[Project Name 2]** — *[Link to Live / Repo]*
-  Built a comprehensive booking frontend for an event agency, featuring dynamic pricing calculators and complex form states using JavaScript and Bootstrap.
-
----
 
 ## Contact
 * **LinkedIn:** [linkedin.com/in/patryk-lowigus](https://www.linkedin.com/in/patryk-lowigus)
